@@ -1,0 +1,8 @@
+name: HarvestPlus
+version: ${project.version}
+main: com.github.goustkor.harvestplus.HarvestPlus
+api-version: 1.14
+prefix: HarvestPlus
+authors: [Goustkor]
+description: To implement harvest in minecraft
+website: github.com/goustkor
